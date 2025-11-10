@@ -2,7 +2,7 @@
 
 - Kevin Jacob
 - Parth Moradia
-- Kondalli Da Don Soumith 
+- Kondapalli Da Don Soumith 
 - Rahul Jhat
 
 ## Introduction
